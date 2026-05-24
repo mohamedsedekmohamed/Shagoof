@@ -1,5 +1,5 @@
 export const spaceInfo = {
-  name: "شغوف Art Space",
+  name: "شروف Art Space",
   address: "بجوار نفق كامب شيزار، ٣١ طريق الكورنيش، الجيش، الإسكندرية",
   phone: "01100044330",
   mapLink: "https://maps.app.goo.gl/wtTzXJQULE7Xd7gE7",
